@@ -18,12 +18,16 @@ An example of multi-agent reinforcement learning using a simplified soccer envir
 - Implementing communication between agents
 - Evaluating multi-agent performance
 
+Original from HuggingFace's Deep-RL tutorial here: [https://huggingface.co/learn/deep-rl-course/en/unit7/hands-on](https://huggingface.co/learn/deep-rl-course/en/unit7/hands-on)
+
 ### 3. GRPO for Generative AI (02-grpo-genai)
 A practical example of using Group Relative Policy Optimization (GRPO) for fine-tuning language models. This lab covers:
 - Setting up a language model for fine-tuning
 - Implementing GRPO training loop
 - Fine-tuning a model on custom tasks
 - Evaluating the model's performance
+
+Originally adapted by Sergio Paniego from HuggingFace's cookbook here: [https://colab.research.google.com/github/huggingface/cookbook/blob/main/notebooks/en/fine_tuning_llm_grpo_trl.ipynb](https://colab.research.google.com/github/huggingface/cookbook/blob/main/notebooks/en/fine_tuning_llm_grpo_trl.ipynb)
 
 ## Contributing
 
